@@ -1,0 +1,12 @@
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\bin\Debug\net7.0\AnaliticalFunction.deps.json
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\bin\Debug\net7.0\AnaliticalFunction.dll
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\bin\Debug\net7.0\AnaliticalFunction.pdb
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.csproj.AssemblyReference.cache
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.AssemblyInfoInputs.cache
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.AssemblyInfo.cs
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.csproj.CoreCompileInputs.cache
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.dll
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\refint\AnaliticalFunction.dll
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\AnaliticalFunction.pdb
+C:\Users\izimu\SUS\Visual Studio\AnaliticalFunction\obj\Debug\net7.0\ref\AnaliticalFunction.dll
